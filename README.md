@@ -7,7 +7,7 @@ https://www.citibikenyc.com/system-data
 Assumptions:
 * Assumed any record with a birth year before 1910 (100 years old or more) to be inaccurate for the age based visualizations and were removed from those graphs. 
 
-Final Tableau Stories: 
+Final Tableau Story: 
 https://public.tableau.com/shared/MGFSRT4QW?:display_count=yes
 
 Assignment Details:
@@ -20,13 +20,15 @@ How many trips have been recorded total during the chosen period?
 
 How has the proportion of short-term customers and annual subscribers changed?
 
-Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+Today, what are the top 10 stations in the city for starting a journey? 
 
-Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+<img width="688" alt="top" src="https://user-images.githubusercontent.com/42496709/55370416-08d2d680-54c0-11e9-8f09-0b46ed2b243b.png">
 
-Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+Today, what are the top 10 stations in the city for ending a journey? 
 
-Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+Today, what are the bottom 10 stations in the city for starting a journey? 
+
+Today, what are the bottom 10 stations in the city for ending a journey 
 
 Today, what is the gender breakdown of active participants (Male v. Female)?
 
